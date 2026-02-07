@@ -14,7 +14,3 @@ This repository serves as a personal sandbox to experiment with Java concepts, a
 - Implementations of **data structures** and **algorithms**
 - Practice with **clean code**, **design principles**, and **coding patterns**
 - Modular structure for easier navigation and experimentation
-
----
-
-## 📂 Project Structure
